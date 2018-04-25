@@ -3,7 +3,7 @@ This contains the files for my website as well as several projects I've done for
 
 ### articlesWebsite
 
-This directory contains all of the files behind https//:articles.djpassey.com. I wanted to practice with HTML and CSS so I wrote them all myself. You can read about why I made the webpage [here](https://articles.djpassey.com/about).
+This directory contains all of the files behind [articles.djpassey.com]([https//:articles.djpassey.com). I wanted to practice with HTML and CSS so I wrote them all myself. You can read about why I made the webpage [here](https://articles.djpassey.com/).
 
 ### predictPref.ipynb
 
