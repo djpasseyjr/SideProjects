@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title></title>
+  </head>
+  
+  <body>
+    <div class="grid">
+
+      <div class="title">
+	<div class="titleText">Philosophy</div>
+      </div>
+
+      <div class="header">
+	<div class="headerText">Ideas and Thought</div>
+      </div>
+
+      <div class="sidebar">
+	<div class="navbar">
+	<strong>
+	<a href="../../">Home</a> <br>
+	<a href="../../topics">Topics</a> <br>
+	<a href="../../articles">Articles</a> <br>
+	<a href="../../analysis">Analysis</a> <br>
+	<a href="../../about">About</a> <br>
+	</strong>
+	</div>
+      </div>
+
+      <div class="content">
+
+
+	<p>Scroll down to view a list of all articles. Included with each article 
+	  is information about the source's bias, a short summary and occasionally some 
+	  information about the author.</p>
+
+	<p>If you are having trouble acessing the articles and want some tips about how to
+	  view the articles for <strong><a href= "../free">free</a></strong> click <a href="../free"> here</a>.
+	  <br>
+	  <br>
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Progress
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.wsj.com/articles/the-enlightenment-is-working-1518191343?mod=e2fb">
+	    The Enlightenment Is Working
+	    </a></h3>
+        <p>
+	  Steven Pinker, February  9, 2018. Wall Street Journal Editorial (Right Bias)
+        </p>
+        <p>
+	  Strong argument that the human condition has been steadily improving&mdash;contrary to the beliefs that the world is falling apart. Evidence for optimists.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Dangerous Philosophy
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.chronicle.com/article/What-s-So-Dangerous-About/242256">
+	    What's So Dangerous About Jordan Peterson?
+	    </a></h3>
+        <p>
+	  Tom Bartlett, January 17, 2018. The Chronicle of Higher Education (Center)
+        </p>
+        <p>
+	  A balanced and in depth look at the man the New York Times called, &quot;The most influential most influential public intellectual in the Western world right now&quot;.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+<!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+        A.I.
+      </div>
+      <div class="articleInfo">
+        <h3><a href="https://www.wsj.com/articles/protecting-against-ais-existential\
+-threat-1508332313">
+            Protecting Against AI's Existential Threat
+            </a></h3>
+        <p>
+          Ilya Sutskever and Dario Amodei, October 18, 2017. Wall Street Journal (Ce\
+nter)
+        </p>
+        <p>
+          Excellent analysis of the ethics problems with AI. Discusses an example were an AI exploits a glitch in a game to rack up points by crashing into walls. Draws parallels to real life AI. Who is accountable for the failures of an computer program?
+          </p><br><br>
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	A Theory about Life
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.youtube.com/watch?v=-XvI6Y5Yq8o&app=desktop">
+		     Jordan Peterson- His Finest Moment
+	    </a></h3>
+        <p>
+	  Truthspeak, July 9, 2017. YouTube. (What you see is what you get) 
+        </p>
+        <p>
+	  A condenced explaination of Jordan Peterson's philosophy. Passionately delivered, clearly explained. 
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+    <!--
+    <div class="articleWrap">
+      <div class="colorBox">
+	
+      </div>
+      <div class="articleInfo">
+	<h3><a href="
+
+	    </a></h3>
+        <p>
+
+        </p>
+        <p>
+
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+    <!--
+    <div class="articleWrap">
+      <div class="colorBox">
+	
+      </div>
+      <div class="articleInfo">
+	<h3><a href="
+
+	    </a></h3>
+        <p>
+
+        </p>
+        <p>
+
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    </div>
+
+      <div class="footer">
+	<div class="footerText">Copyright DJ Passey 2018 </br> All Rights Resered 
+	                        </br><a href="./">Home</a>
+	</div>
+      </div>
+    
+
+    </div>
+  </body>
+
+</html>

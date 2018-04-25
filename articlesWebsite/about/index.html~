@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About Articles With DJ</title>
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  
+  <body>
+    <div class="grid">
+
+      <div class="title">About</div>
+      <div class="header">My Philosophy</div>
+    
+      <div class="sidebar">
+        <strong>
+        <a href="../">Home</a> </br>
+        <a href="../topics">Topics</a> </br>
+        <a href="../articles">Articles</a> </br>
+        <a href="../about">About</a> </br>
+        <a href="../analysis">Analysis</a> </br>
+        </strong>
+      </div>
+
+      <div class="content">
+	<p>While a student at BYU, a poster designed by my wife for the Women in Math club went viral on twitter.
+	  Both she and her club became the subject of misinformed attacks and ridicule from feminists online. The story was
+	  picked up by prominent news sources and several of them published charged articles that seemed to intentionally
+	  misrepresent what occured. Ironically, my wife is a feminist and is highly active in promoting women in STEM.
+	  All of these attackers must have believed that they were doing good, when in fact, they were hurting one of their own.
+	  When the truth came out, many people wrote to my wife, expressed their support and apologized for jumping to 
+	  conclusions.</p> 
+	 <p>This site was organized with the intent to promote open conversation about issues and guard against jumping
+	    to conclusions. I try to find articles with well reasoned, thoughtful arguments. Additionally I try to provide 
+	    some context about the author and their biases. As for myself, I have a conservative bias, but lean left on
+	    immigration, free trade, women's rights and am an antiracist. In general, I believe that every group deserves to
+	    be listened to and understood. I hope my site reflects this. </p>
+	 <p>I can only read so many articles on my own, and want to develop the content of my webpage. If you come across an
+	   article that leaves you mulling over it for days, bothers you deeply, or even changes your life, please send it to
+	   me at djpasseyjr@gmail.com. I will credit you when I post it. </p>
+      </div>
+
+
+      <div class="footer">Copyright DJ Passey 2018 </br> All Rights Resered
+	 </br><a href="../">Home</a>
+      </div>
+
+
+    </div>
+  </body>
+</html>

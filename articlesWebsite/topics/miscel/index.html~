@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title></title>
+  </head>
+  
+  <body>
+    <div class="grid">
+
+      <div class="title">
+	<div class="titleText">Miscelaneous</div>
+      </div>
+
+      <div class="header">
+	<div class="headerText">Everything Else</div>
+      </div>
+
+      <div class="sidebar">
+	<div class="navbar">
+	<strong>
+	<a href="../../">Home</a> <br>
+	<a href="../../topics">Topics</a> <br>
+	<a href="../../articles">Articles</a> <br>
+	<a href="../../analysis">Analysis</a> <br>
+	<a href="../../about">About</a> <br>
+	</strong>
+	</div>
+      </div>
+
+      <div class="content">
+
+
+	<p>Scroll down to view a list of all articles. Included with each article 
+	  is information about the source's bias, a short summary and occasionally some 
+	  information about the author.</p>
+
+	<p>If you are having trouble acessing the articles and want some tips about how to
+	  view the articles for <strong><a href= "../free">free</a></strong> click <a href="../free"> here</a>.
+	  <br>
+	  <br>
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Pro-Life
+      </div>
+      <div class="articleInfo">
+	<h3><a href="http://www.nationalreview.com/article/430152/abortion-roe-v-wade-unborn-children-women-feminism-march-life">
+	    When Abortion Suddenly Stopped Making Sense
+	    </a></h3>
+        <p>
+	  Frederica Mathewes-Green, January 22, 2016. The National Review (Strong Right Bias)
+        </p>
+        <p>
+	  Anecdotes about abortion. This article attempts to dissuade the readers from being pro-choice. The author claims to be a strong feminist and formerly pro-choice. Her claims check out: According to wikipedia, the is is a former vice-president of Feminists for Life of America.  
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Green
+      </div>
+      <div class="articleInfo">
+	<h3><a href="http://michaelpollan.com/articles-archive/why-bother/">
+	    Why Bother?
+	    </a></h3>
+        <p>
+	  Michael Pollan, April 20, 2008. The New York Times Magazine (Left Bias)
+        </p>
+        <p>
+	  Fresh, strong arguments about climate change. A welcome departure from platitudes.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+
+    <div class="articleWrap">
+      <div class="colorBox">
+	Death
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://informationisbeautiful.net/visualizations/20th-century-death/">
+	    20th Century Death
+	    </a></h3>
+        <p>
+	  David McCandless, November 2012. Information Is Beautiful (They revise their graphics to help eliminate bias)
+        </p>
+        <p>
+	  Take a look at the causes of human death from 1900-2000.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+    <!--
+    <div class="articleWrap">
+      <div class="colorBox">
+	
+      </div>
+      <div class="articleInfo">
+	<h3><a href="
+
+	    </a></h3>
+        <p>
+
+        </p>
+        <p>
+
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+    <!--
+    <div class="articleWrap">
+      <div class="colorBox">
+	
+      </div>
+      <div class="articleInfo">
+	<h3><a href="
+
+	    </a></h3>
+        <p>
+
+        </p>
+        <p>
+
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    </div>
+
+      <div class="footer">
+	<div class="footerText">Copyright DJ Passey 2018 </br> All Rights Resered 
+	                        </br><a href="./">Home</a>
+	</div>
+      </div>
+    
+
+    </div>
+  </body>
+
+</html>

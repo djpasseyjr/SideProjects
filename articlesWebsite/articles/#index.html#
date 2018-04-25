@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title></title>
+  </head>
+  
+  <body>
+    <div class="grid">
+
+      <div class="title">
+	<div class="titleText">Every Article</div>
+      </div>
+
+      <div class="header">
+	<div class="headerText">Lots of Ideas</div>
+      </div>
+
+      <div class="sidebar">
+	<div class="navbar">
+	<strong>
+	<a href="../">Home</a> <br>
+	<a href="../topics">Topics</a> <br>
+	<a href="../articles">Articles</a> <br>
+	<a href="../analysis">Analysis</a> <br>
+	<a href="../about">About</a> <br>
+	</strong>
+	</div>
+      </div>
+
+      <div class="content">
+
+
+
+
+	<p>For tips about how to view the articles for <strong><a href= "../free">free</a></strong> click <a href="../free"> here</a>.</p>
+	  <br>
+	  <br>
+
+    <!--Beginning of Article Entry -->
+
+    <div class="articleWrap">
+      <div class="colorBox">
+	Not So Foreign
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.dollarstreet.org">
+	    Dollar Street
+	    </a></h3>
+        <p>
+	  Anna Rosling Ronnlund, 2015. Gapminder (Center)
+        </p>
+        <p>
+	  Lifestyles across all cultures and countries are the  nearly identical&mdash;in each income bracket. Compare toys, stoves,  toilets and homes around the world at all levels of income. Watch the Ted Talk <a href="https://www.ted.com/talks/anna_rosling_ronnlund_see_how_the_rest_of_the_world_lives_organized_by_income" STYLE = "font-size: 12pt; font-weight: bold;">here.</a>
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+    <!--
+    <div class="articleWrap">
+      <div class="colorBox">
+	
+      </div>
+      <div class="articleInfo">
+	<h3><a href="
+
+	    </a></h3>
+        <p>
+
+        </p>
+        <p>
+
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+	<div class="articleWrap">
+
+	  <div class="colorBox">
+	    Cults
+	  </div>
+
+	  <div class="articleInfo">
+	       <h3><a href="https://www.newyorker.com/magazine/2014/03/31/sacred-and-profane-4">
+		   Sacred and Profane: How not to negotiate with believers
+		 </a></h3>
+
+	  <p>Malcolm Gladwell, March 31, 2014. The New Yorker (Strong Left Bias)</p>
+	  <p>Gladwell essay on a group of 1993 religious extremists portrayed by the media as a cult. An
+	    examination of why the FBI's negotiation tactics ultimately failed and ended in the death of these
+	    misunderstood religious people. Martyrdom? So it would seem. 
+	  </p>
+	  <br>
+	  <br>
+
+	</div>
+      </div>
+
+
+      <div class="articleWrap">
+	<div class="colorBox">
+	  #TooFar?
+	</div>
+	<div class="articleInfo">
+	     <h3>
+	       <a href="https://www.reuters.com/article/us-people-harvey-weinstein-france-deneuv/frances-deneuve-denounces-metoo-campaign-for-puritanism-idUSKBN1EY24D">
+		 France's Deneuve denounces #Metoo campaign for 'puritanism'
+	       </a>
+	     </h3>
+
+	<p>Reuters Staff, January 9th, 2018. Reuters (Unbiased)</p>
+	<p>A french actress criticises the #MeToo campaign for undoing the good done by the sexual revolution. 
+	  Very interesting that a supporter of the sexual revolution would denounce the #MeToo campaign.
+	</p>
+	<br>
+	<br>
+      </div>
+    </div>
+
+      <div class="articleWrap">
+	<div class="colorBox">
+	  #MeToo
+	</div>
+  
+	<div class="articleInfo">
+	     <h3><a href= "https://www.thedailybeast.com/catherine-deneuve-and-crew-tell-metoo-women-to-grow-up-really">
+		 Catherine Deneuve and Crew Tell #MeToo Women to Grow Up... Really?	                 </a></h3>
+
+	<p>
+	  Erin Zaleski, January 10, 2018. The Daily Beast (Left Bias)
+	</p>
+	<p>
+	  Analysis of the events above from a liberal perspective. Provides excellent information about the cultural backdrop in France and helps clarify what may have been Deneuve's reasoning.
+	</p>
+	<br>
+	<br>
+      </div>
+    </div>
+
+    <!--Beginning of Article Entry -->
+
+    <div class="articleWrap">
+      <div class="colorBox">
+	Bad Sex
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.nytimes.com/2018/01/15/opinion/aziz-ansari-babe-sexual-harassment.html">
+Aziz Ansari Is Guilty. Of Not Being a Mind Reader.
+	    </a></h3>
+	<p>
+	  Bari Weiss, January 15, 2018. The New York Times (Left Bias)
+	</p>
+	<p>
+Fascinating analysis of the Aziz Ansari story. Characterizing this woman's experience as bad sex, Weiss claims that the woman should have stood up for herself.  Well argued and well written. The author was the newest op-ed hire at the New York Times.
+	</p><br><br>
+	
+      </div>
+    </div>
+    <!-- End of and Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+
+    <div class="articleWrap">
+      <div class="colorBox">
+	Sexual Culture
+      </div>
+      <div class="articleInfo">
+	<h3><a href="http://www.katykatikate.com/2018/01/not-that-bad_15.html">
+	    not that bad
+	    </a></h3>
+        <p>
+	  Kate (a blogger) January. KatyKatiKate (a blog)
+        </p>
+        <p>
+Interesting look at what the Aziz story says about our culture. An examination of the nuances of women's sex experiences in our culture. Are women pressured to accept that things are &quot;fine&quot;?
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+
+    <div class="articleWrap">
+      <div class="colorBox">
+	Defining Consent
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.vox.com/first-person/2018/1/24/16925444/aziz-ansari-me-too-feminism-consent 
+">
+	    I thought I was one of the good guys. Then I read the Aziz Ansari story
+	    </a></h3>
+        <p>
+	  Anonymous, January 24, 2018. Vox (Left Bias)
+        </p>
+        <p>
+	  The author makes strong arguments for &quot;enthusiastic consent&quot;. (I had some doubts about the authenticity of the article.) Real or fake, it is still an interesting contribution to the conversation. 
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Cognition
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.scientificamerican.com/article/the-mind-of-an-octopus/">
+	    The Mind of an Octopus
+	    </a></h3>
+        <p>
+	  Peter Godfrey-Smith, January 1 2018. Scientific American (No bias studies done)
+        </p>
+        <p>
+Octopus brains are completely different from ours, with a piece of it in each tentacle. However, they exhibit personality, reasoning, the ability to recognize faces and perhaps even self awareness. An interesting look into what it means to be conscious and how cognition works in other animals.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Future Tech
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.wsj.com/articles/how-googles-quantum-computer-could-change-the-world-1508158847">
+	    How Google's Quantum Computer Could Change the World
+	    </a></h3>
+        <p>
+	  Jack Nicas, October 16, 2017.  Wall Street Journal (Center)
+        </p>
+        <p>
+	  A general explanation of quantum computing. Interesting connection to parallel universes. Description of Google's computer. Useful article if you are looking for an intro to the issues with quantum computing.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	A.I.
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.wsj.com/articles/protecting-against-ais-existential-threat-1508332313">
+	    Protecting Against AI's Existential Threat
+	    </a></h3>
+        <p>
+	  Ilya Sutskever and Dario Amodei, October 18, 2017. Wall Street Journal (Center)
+        </p>
+        <p>
+	  Excellent analysis of the ethics problems with AI. Discusses an example where an AI exploits a glitch in a game to rack up points by crashing into walls. Draws parallels to real life AI. Who is accountable for the failures of an computer program? 
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Pro-Life
+      </div>
+      <div class="articleInfo">
+	<h3><a href="http://www.nationalreview.com/article/430152/abortion-roe-v-wade-unborn-children-women-feminism-march-life">
+	    When Abortion Suddenly Stopped Making Sense
+	    </a></h3>
+        <p>
+	  Frederica Mathewes-Green, January 22, 2016. The National Review (Strong Right Bias)
+        </p>
+        <p>
+	  Anecdotes about abortion. This article attempts to dissuade the readers from being pro-choice. The author claims to be a strong feminist and formerly pro-choice. Her claims check out: According to wikipedia, the is is a former vice-president of Feminists for Life of America.  
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+
+    <div class="articleWrap">
+      <div class="colorBox">
+	Deception
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://medium.com/@iluvbutts247/have-you-encountered-the-softboy-7e95e2c7f3e7">
+	    Have You Encountered the Softboy?
+	    </a></h3>
+        <p>
+	  Alan Hanson, August 10, 2015. Medium (A place to publish your writing)
+        </p>
+        <p>
+	  Well written thoughtful exploration of the millennial dating culture. How a young man may seem like he is not coercing a young woman to have sex with him, but he is, he's just being more subtle. 
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	LOTR
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.worldcrunch.com/culture-society/my-father039s-quotevisceratedquot-work-son-of-hobbit-scribe-jrr-tolkien-finally-speaks-out">
+		     My Father's "Eviscerated" Work - Son Of Hobbit Scribe J.R.R. Tolkien Finally Speaks Out
+	    </a></h3>
+        <p>
+	  Raphaelle Rerolle,  December, 5 2012. Le Monde (A french media source)
+        </p>
+        <p>
+	  Analysis of the cultural impact of the Lord of the Rings, interesting information about Tolkein's huge amount of unpublished work. Effect of Lord of the Rings on Tolkein's family.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Philosophy
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.chronicle.com/article/What-s-So-Dangerous-About/242256">
+	    What's So Dangerous About Jordan Peterson?
+	    </a></h3>
+        <p>
+	  Tom Bartlett, January 17, 2018. The Chronicle of Higher Education (Center)
+        </p>
+        <p>
+	  A balanced and in depth look at the man the New York Times called, &quot;The most influential most influential public intellectual in the Western world right now&quot;.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Men V.S. Women
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://stanmed.stanford.edu/2017spring/how-mens-and-womens-brains-are-different.html">
+	    Two minds: The cognitive differences between men and women
+	    </a></h3>
+        <p>
+	  Bruce Goldman, Spring 2017. Stanford Medicine (No bias studies done)
+        </p>
+        <p>
+	  An extremely factual approach to a nuanced and inflammatory topic. The author makes interesting arguments and actively disproves many counterclaims.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	A Theory about Life
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.youtube.com/watch?v=-XvI6Y5Yq8o&app=desktop">
+		     Jordan Peterson- His Finest Moment
+	    </a></h3>
+        <p>
+	  Truthspeak, July 9, 2017. YouTube. (What you see is what you get) 
+        </p>
+        <p>
+	  A condenced explaination of Jordan Peterson's philosophy. Passionately delivered, clearly explained. 
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Green
+      </div>
+      <div class="articleInfo">
+	<h3><a href="http://michaelpollan.com/articles-archive/why-bother/">
+	    Why Bother?
+	    </a></h3>
+        <p>
+	  Michael Pollan, April 20, 2008. The New York Times Magazine (Left Bias)
+        </p>
+        <p>
+	  Fresh, strong arguments about climate change. A welcome departure from platitudes.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Foreign Policy
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.wsj.com/articles/a-word-from-henry-kissinger-1517876551?mod=e2fb">
+	    A Word From Henry Kissinger
+	    </a></h3>
+        <p>
+	  Walter Russell Mead, February 5, 2018. Wall Street Journal Editorial (Right Bias)
+        </p>
+        <p>
+	  WSJ's new foreign policy columnist explains the philosophy underpinning his thinking.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	Progress
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.wsj.com/articles/the-enlightenment-is-working-1518191343?mod=e2fb">
+	    The Enlightenment Is Working
+	    </a></h3>
+        <p>
+	  Steven Pinker, February  9, 2018. Wall Street Journal Editorial (Right Bias)
+        </p>
+        <p>
+	  Strong argument that the human condition has been steadily improving&mdash;contrary to the beliefs that the world is falling apart. Evidence for optimists.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+    <div class="articleWrap">
+      <div class="colorBox">
+	A.I.
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.nytimes.com/interactive/2018/02/13/technology/skydio-autonomous-drones.html">
+	    The Autonomous Selfie Drone Is Here. Is Society Ready for It?
+	    </a></h3>
+        <p>
+	  Farhad Manjoo, February 13, 2018. New York Times (Left Bias)
+        </p>
+        <p>
+	  A drone autonomously tails the reporter  while he tries to escape. For those following the advent of drone technology.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+
+    <div class="articleWrap">
+      <div class="colorBox">
+	Death
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://informationisbeautiful.net/visualizations/20th-century-death/">
+	    20th Century Death
+	    </a></h3>
+        <p>
+	  David McCandless, November 2012. Information Is Beautiful (They revise their graphics to help eliminate bias)
+        </p>
+        <p>
+	  Take a look at the causes of human death from 1900-2000.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    <!--Beginning of Article Entry -->
+
+    <div class="articleWrap">
+      <div class="colorBox">
+	Drones
+      </div>
+      <div class="articleInfo">
+	<h3><a href="https://www.popsci.com/dronedefender?con=FbPgPostAds&dom=fb&lnk=TA&src=SOC&utm_campaign&utm_content=5ab073579ebbef000722b5aa&utm_medium&utm_source=00194b&loc=PSC">
+	    These 'two yahoos from the middle of Ohio' designed the ultimate drone buster
+	    </a></h3>
+        <p>
+	  Rachel Feltman November 6, 2017. Popular Science (Center)
+        </p>
+        <p>
+	   How to stop a drone cold. Cool inventions at their best.
+          </p><br><br>	
+      </div>
+    </div>
+    <!-- End of Article Entry -->
+
+    </div>
+
+      <div class="footer">
+	<div class="footerText">Copyright DJ Passey 2018 </br> All Rights Resered 
+	                        </br><a href="./">Home</a>
+	</div>
+      </div>
+    
+
+    </div>
+  </body>
+
+</html>
