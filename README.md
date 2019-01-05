@@ -5,6 +5,10 @@ This contains the files for my website as well as several projects I've done for
 
 I'm developing a model that will help people think of gift ideas. This notebook contains my psycology research about what makes a good gift as well as a webscraper that retrieves amazon wishlist data. 
 
+### SignLanguge.ipynb
+
+Using a dataset of sign language numbers, I created SVM and neural networks models to predict which sign corresponds with which number.
+
 ### articlesWebsite
 
 I made a website to share the most interesting articles I've read. This directory contains all of the files behind [articles.djpassey.com]([https//:articles.djpassey.com). In order to better understand web programming, I wrote them all myself. You can read about why I made the webpage [here](https://articles.djpassey.com/).
